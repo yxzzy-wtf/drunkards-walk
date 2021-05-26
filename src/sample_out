@@ -1,0 +1,10 @@
+1000 with 0/10 chance to decrease: succeed=1000 fail=0 avg=3.0
+1000 with 1/10 chance to decrease: succeed=1000 fail=0 avg=3.708
+1000 with 2/10 chance to decrease: succeed=1000 fail=0 avg=4.662
+1000 with 3/10 chance to decrease: succeed=1000 fail=0 avg=6.402
+1000 with 4/10 chance to decrease: succeed=1000 fail=0 avg=11.004
+1000 with 5/10 chance to decrease: succeed=1000 fail=0 avg=25.03
+1000 with 6/10 chance to decrease: succeed=1000 fail=0 avg=125.378
+1000 with 7/10 chance to decrease: succeed=1000 fail=0 avg=1441.558
+1000 with 8/10 chance to decrease: succeed=952 fail=48 avg=27183.10714285714
+1000 with 9/10 chance to decrease: succeed=54 fail=946 avg=47302.148148148146
